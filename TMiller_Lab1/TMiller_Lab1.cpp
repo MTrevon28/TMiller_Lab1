@@ -9,5 +9,7 @@ int main()
     cout << "Git makes collaboration easy!\n";
 
     cout << "Hi, from Ashwin!";
+
+    cout << "Lab 1 completed on 4/9/2026!\n";
 }
 
